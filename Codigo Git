@@ -1,0 +1,6 @@
+git init //solo se hace la primera vez para dar la carpeta .git
+git staus
+git add .
+git commit -m "texto"
+git remote add origin {{enlace de la pagina git}}//solo se hace esto la primera vez que digamos la direccion ya que se guarda en la variable origin
+git push origin master
